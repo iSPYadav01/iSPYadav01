@@ -15,11 +15,11 @@
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Data and Aerospace
 - 📫 How to reach me: 
--       1. https://twitter.com/iSPYadav01
--       2. https://www.linkedin.com/in/surendra-pratap-yadav-13456895
+-      https://twitter.com/iSPYadav01
+-      https://www.linkedin.com/in/surendra-pratap-yadav-13456895
 -   
 - 😄 Sometimes:- 
--       1. https://www.youtube.com/channel/UCrWnI0cobDxrE9SjZTPPAxw 
+-      https://www.youtube.com/channel/UCrWnI0cobDxrE9SjZTPPAxw 
 - 😄 Pronouns: SP
 - ⚡ Fun fact: ...Still Exploring ... More
 
