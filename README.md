@@ -1,20 +1,19 @@
 ![MasterHead](https://connect-assets.prosple.com/cdn/ff/qfmywmPsyalNokaR8bDeiIt_-D89bEuUASiMJfffIAU/1586153400/public/2020-04/banner-honeywell-1786x642-2020.jpg)
 <h1 align="center">Hi 👋, I'm S.Pratap Yadav</h1>
-<h3 align="center">Engineering Aerospace | Hardware Engineer | FPGA Verification Engineer | Data Science Enthusiast || InfoSec</h3>
+<h3 align="center">Engineering Aerospace | Hardware Engineer | FPGA Verification Engineer | Data Science Enthusiast | InfoSec</h3>
 <img align="right" alt="Coding" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iSPYadav01&label=Profile%20views&color=0e75b6&style=flat" alt="iSPYadav01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="ispyadav01" /> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ispyadav01" alt="ispyadav01" /></a> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iSPYadav01" alt="iSPYadav01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iSPYadav01" target="blank"><img src="https://img.shields.io/twitter/follow/iSPYadav01?logo=twitter&style=for-the-badge" alt="ispyadav01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iSPYadav01" target="blank"><img src="https://img.shields.io/twitter/follow/iSPYadav01?logo=twitter&style=for-the-badge" alt="iSPYadav01" /></a> </p>
-
-- 🔭 I’m currently working on [FPGA Verification](Engineering Aerospace)
-
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
+- 🔭 I’m currently working as **FPGA Verification** in **Honeywell Engineering Aerospace**
+- 🌱 I’m currently learning **Aerospace Engineering **
+- 🌱 I’m also learning **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on [Data Science](Machine Learning)
 
-- 🤝 I’m looking for help with **InfoSec**
+- 🤝 I’m looking for help with Data Science & InfoSec
 
 - 👨‍💻 All of my projects are available at [Working on...](Working on...)
 
@@ -30,12 +29,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iSPYadav01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iSPYadav01" height="30" width="40" /></a>
+<a href="https://twitter.com/iSPYadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iSPYadav01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/surendra-pratap-yadav-13456895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iSPYadav01" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ispyadav01](https://www.youtube.com/channel/UCrWnI0cobDxrE9SjZTPPAxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iSPYadav01" height="30" width="40" /></a>
+<a href="https://kaggle.com/iSPYadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iSPYadav01" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iSPYadav01" height="30" width="40" /></a>
-<a href="https://kaggle.com/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iSPYadav01" height="30" width="40" /></a>
 <a href="https://instagram.com/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iSPYadav01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iSPYadav01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iSPYadav01" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="iSPYadav01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iSPYadav01" height="30" width="40" /></a>
@@ -46,9 +45,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ispyadav01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ispyadav01" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ispyadav01&show_icons=true&locale=en&layout=compact" alt="ispyadav01" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ispyadav01&show_icons=true&locale=en" alt="ispyadav01" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ispyadav01&" alt="ispyadav01" /></p>
