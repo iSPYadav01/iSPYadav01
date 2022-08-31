@@ -17,7 +17,7 @@
 - 📫 How to reach me:
      https://twitter.com/iSPYadav01
      https://www.linkedin.com/in/surendra-pratap-yadav-13456895
--   
+ [Twitter](foo%20b&auml;)        <p><a href="[foo%20b%C3%A4](https://twitter.com/iSPYadav01)">link</a></p>
 - 😄 Sometimes:- https://www.youtube.com/channel/UCrWnI0cobDxrE9SjZTPPAxw 
 - 😄 Pronouns: SP
 - ⚡ Fun fact: ...Still Exploring ... More
