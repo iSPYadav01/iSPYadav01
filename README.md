@@ -1,7 +1,4 @@
 ![MasterHead](https://connect-assets.prosple.com/cdn/ff/qfmywmPsyalNokaR8bDeiIt_-D89bEuUASiMJfffIAU/1586153400/public/2020-04/banner-honeywell-1786x642-2020.jpg)
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm S.Pratap Yadav</h1>
 <h3 align="center">Engineering Aerospace | Hardware Engineer | FPGA Verification Engineer | Data Science Enthusiast || InfoSec</h3>
 <img align="right" alt="Coding" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif>
