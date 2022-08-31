@@ -12,19 +12,12 @@
 - 🌱 I’m currently learning **Aerospace Engineering **
 - 🌱 I’m also learning **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on [Data Science](Machine Learning)
-
 - 🤝 I’m looking for help with Data Science & InfoSec
-
 - 👨‍💻 All of my projects are available at [Working on...](Working on...)
-
 - 📝 I regularly write articles on [Working on...](Working on...)
-
 - 💬 Ask me about **Data Science | InfoSec | Cyber Sec**
-
 - 📫 How to reach me **help.enext@protonmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/surendra-pratap-yadav-13456895](https://www.linkedin.com/in/surendra-pratap-yadav-13456895)
-
 - ⚡ Fun fact **Still Exploring...**
 
 <h3 align="left">Connect with me:</h3>
