@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm S.Pratap Yadav</h1>
 <h3 align="center">Engineering Aerospace | Hardware Engineer | FPGA Verification Engineer | Data Science Enthusiast | InfoSec</h3>
 <img align="right" alt="Coding" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="ispyadav01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="iSPYadav01" /> </p>
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ispyadav01" alt="ispyadav01" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ispyadav01" alt="iSPYadav01" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/iSPYadav01" target="blank"><img src="https://img.shields.io/twitter/follow/iSPYadav01?logo=twitter&style=for-the-badge" alt="ispyadav01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iSPYadav01" target="blank"><img src="https://img.shields.io/twitter/follow/iSPYadav01?logo=twitter&style=for-the-badge" alt="iSPYadav01" /></a> </p>
 
 - 🔭 I’m currently working as **FPGA Verification** in **Honeywell Engineering Aerospace**
 - 🌱 I’m currently learning **Aerospace Engineering **
