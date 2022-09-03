@@ -17,9 +17,9 @@
 - 📝 I regularly write articles on [Working on...](https://medium.com/)
 - 💬 Ask me about **Data Science | InfoSec | Cyber Sec**
 - 📫 How to reach me **help.enext@protonmail.com**
-- 📄 Know about my Experiences [Linkedin](https://www.linkedin.com/in/surendra-pratap-yadav-13456895)
+- 📄 Know about my Experiences [LinkedIn](https://www.linkedin.com/in/surendra-pratap-yadav-13456895)
 - ⚡ Fun fact **Still Exploring...**
-- 📄 Best Resources to Learn Data Science: [Link Here](https://github.com/iSPYadav01/Resources-to-Learn-Data-Science)
+- 📄 Best Resources to Learn Data Science: [Click Here](https://github.com/iSPYadav01/Resources-to-Learn-Data-Science)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
