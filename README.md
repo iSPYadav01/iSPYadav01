@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iSPYadav01" target="blank"><img src="https://img.shields.io/twitter/follow/iSPYadav01?logo=twitter&style=for-the-badge" alt="iSPYadav01" /></a> </p>
 
-- 🔭 I’m currently working as **FPGA Verification** in **Honeywell Engineering Aerospace**
+- 🔭 I’m currently working as **FPGA Design & Verification Engineer** @ **Honeywell Engineering Aerospace**
 - 🌱 I’m currently learning **Aerospace Engineering **
 - 🌱 I’m also learning **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on [Data Science](Machine Learning)
