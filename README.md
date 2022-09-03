@@ -19,6 +19,7 @@
 - 📫 How to reach me **help.enext@protonmail.com**
 - 📄 Know about my Experiences [Linkedin](https://www.linkedin.com/in/surendra-pratap-yadav-13456895)
 - ⚡ Fun fact **Still Exploring...**
+- 📄 Best Resources to Learn Data Science: [Link Here](https://github.com/iSPYadav01/Resources-to-Learn-Data-Science)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +44,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ispyadav01&show_icons=true&locale=en" alt="ispyadav01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ispyadav01&" alt="ispyadav01" /></p>
 
-
-Best Resources to Learn Data Science:
-[Link Here](https://github.com/iSPYadav01/Resources-to-Learn-Data-Science)
   
