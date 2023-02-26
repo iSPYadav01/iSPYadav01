@@ -1,6 +1,6 @@
 ![MasterHead](https://connect-assets.prosple.com/cdn/ff/qfmywmPsyalNokaR8bDeiIt_-D89bEuUASiMJfffIAU/1586153400/public/2020-04/banner-honeywell-1786x642-2020.jpg)
 <h1 align="center">Hi 👋, I'm S.Pratap Yadav</h1>
-<h3 align="center">Engineering Aerospace | Hardware Engineer | FPGA Verification Engineer | Data Science Enthusiast | InfoSec</h3>
+<h3 align="center">Engineering Aerospace | Software Engineer | Data Science & ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="iSPYadav01" /> </p>
 <!--
@@ -8,11 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/iSPYadav01" target="blank"><img src="https://img.shields.io/twitter/follow/iSPYadav01?logo=twitter&style=for-the-badge" alt="iSPYadav01" /></a> </p>
 
-- 🔭 I’m currently working as **FPGA Design & Verification Engineer** @ **Honeywell Engineering Aerospace**
+- 🔭 I’m currently working as **Software Engineer** @ **Honeywell Engineering Aerospace**
 - 🌱 I’m currently learning **Aerospace Engineering**
 - 🌱 I’m also learning **Data Science and Machine Learning**
-- 👯 I’m looking to collaborate on **Data Science & Machine Learning**
+- 👯 I’m looking to collaborate on **DS & ML**
 - 🤝 I’m looking for help with Data Science & InfoSec
+- 🔭 I’ve worked as **FPGA Design & Verification Engineer** @ **Honeywell Engineering Aerospace**
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/iSPYadav01?tab=repositories)
 - 📫 Take a Look at Our One of the : [ML Project](https://vehiclepricepredictor01.herokuapp.com/)
 - 📝 I regularly write articles on : [Working on...](https://medium.com/)
