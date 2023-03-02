@@ -31,7 +31,6 @@
 - ⚡ Fun fact: I'm living cartoon, I love making others smile :)
 
 
-
 <img src="https://komarev.com/ghpvc/?username=iSPYadav01" alt="iSPYadav01"/>
 [![Twitter-Badge](https://img.shields.io/twitter/follow/iSPYadav01?style=social&link=https://www.twitter.com/iSPYadav01/)](https://www.twitter.com/iSPYadav01/)
 [![Linkedin Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iSPYadav01/)](https://www.linkedin.com/in/iSPYadav01/)
@@ -40,6 +39,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darecoder/)](https://instagram.com/darecoder)
 [![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
 -->
+
 
 ## Tools & Technologies :computer:
 
