@@ -35,18 +35,12 @@
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/iSPYadav01?tab=repositories)
 - 📫 Take a Look at Our One of the : [ML Project](https://vehiclepricepredictor01.herokuapp.com/)
 - 📝 I regularly write articles on : [Working on...](https://medium.com/)
-- 💬 Ask me about : **Data Science | InfoSec | Cyber Sec**
-- 📫 How to reach me : **help.enext@protonmail.com**
-- 📄 Know about my Experiences : [LinkedIn](https://www.linkedin.com/in/surendra-pratap-yadav-13456895)
-- ⚡ Fun fact **Still Exploring...**
+- 💬 Ask me about : Data Science & Analytics | Aerospace | Big Data | InfoSec  I'll try my best to help.
+- 📫 How to reach me: You can connect with me on LinkedIn,Twitter,Instagram,eMail
+- 😄 Pronouns: he/his)
+- ⚡ Fun fact: I'm living cartoon, I love making others smile :)
 - 📄 Best Resources to Learn Data Science : [Click Here](https://github.com/iSPYadav01/Resources-to-Learn-Data-Science)
 
-- 💻 Currently working in the Offline Merchants pod at PhonePe.
-- 🔭 At Red Hat, worked on Openshift Cluster Logging.
-- 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
-- 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I'm living cartoon, I love making others smile :)
 
 ## Work Experience :woman_technologist:
 
