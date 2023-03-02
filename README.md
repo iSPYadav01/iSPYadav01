@@ -42,25 +42,21 @@
 - 📄 Best Resources to Learn Data Science : [Click Here](https://github.com/iSPYadav01/Resources-to-Learn-Data-Science)
 
 
-## Work Experience :woman_technologist:
-
+## Work Experience :men_technologist:
 * Software Engineer at [Honeywell Aerospace](https://aerospace.honeywell.com/)
 * Campus Ambassador at [IIT BHU Technex'19](https://ca.technex.co.in/)
+
+## Languages :computer
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 
 ## Tools & Technologies :computer:
 
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
 
-
+  <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/iSPYadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iSPYadav01" height="30" width="40" /></a>
@@ -68,12 +64,7 @@
 <a href="https://twitter.com/iSPYadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iSPYadav01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eNext Technology](https://www.youtube.com/channel/UCrWnI0cobDxrE9SjZTPPAxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iSPYadav01" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iSPYadav01" height="30" width="40" /></a>
-  <!--
-<a href="https://instagram.com/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iSPYadav01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iSPYadav01" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="iSPYadav01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ispyadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iSPYadav01" height="30" width="40" /></a>
-</p>
+
 -->
   
 <h3 align="left">Languages and Tools:</h3>
