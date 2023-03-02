@@ -1,5 +1,6 @@
 ![MasterHead](https://connect-assets.prosple.com/cdn/ff/qfmywmPsyalNokaR8bDeiIt_-D89bEuUASiMJfffIAU/1586153400/public/2020-04/banner-honeywell-1786x642-2020.jpg)
 <h1 align="center">Hi 👋, I'm S.Pratap Yadav</h1>
+<h1 align="center">Hey there, I'm S.Pratap Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Software Engineer | Engineering Aerospace | Data Science & ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="iSPYadav01" /> </p>
@@ -13,7 +14,6 @@
 - 🌱 I’m also learning **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on **DS & ML**
 - 🤝 I’m looking for help with Data Science & InfoSec
-- 🔭 I’ve worked as **FPGA Design & Verification Engineer** @ **Honeywell Engineering Aerospace**
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/iSPYadav01?tab=repositories)
 - 📫 Take a Look at Our One of the : [ML Project](https://vehiclepricepredictor01.herokuapp.com/)
 - 📝 I regularly write articles on : [Working on...](https://medium.com/)
@@ -22,6 +22,35 @@
 - 📄 Know about my Experiences : [LinkedIn](https://www.linkedin.com/in/surendra-pratap-yadav-13456895)
 - ⚡ Fun fact **Still Exploring...**
 - 📄 Best Resources to Learn Data Science : [Click Here](https://github.com/iSPYadav01/Resources-to-Learn-Data-Science)
+
+- 💻 Currently working in the Offline Merchants pod at PhonePe.
+- 🔭 At Red Hat, worked on Openshift Cluster Logging.
+- 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
+- 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I'm living cartoon, I love making others smile :)
+
+
+
+[![Twitter-Badge](https://img.shields.io/twitter/follow/darecoder?style=social&link=https://www.twitter.com/darecoder/)](https://www.twitter.com/darecoder/)
+[![Linkedin Badge](https://img.shields.io/badge/-darecoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darecoder/)](https://www.linkedin.com/in/darecoder/)
+[![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darecoder/)](https://instagram.com/darecoder)
+[![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
+[![Gmail Badge](https://img.shields.io/badge/-ektamishra1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ektamishra1999@gmail.com)](mailto:ektamishra1999@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=darecoder" alt="darecoder"/>
+
+## Tools & Technologies :computer:
+
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
