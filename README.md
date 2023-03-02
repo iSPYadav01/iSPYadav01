@@ -24,7 +24,10 @@
 -->
 ## About Me:
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I'm S.Pratap Yadav. 
-- 🔭 I’m currently working as **Software Engineer** @ **Honeywell Engineering Aerospace**
+- 💻 I’m currently working as Software Engineer @ [Honeywell](https://www.honeywell.com/in/en)
+<!--
+- 🔭 I've Worked as Software Engineer @ [Honeywell](https://www.honeywell.com/in/en)
+-->
 - 🌱 I’m also learning **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on **DS & ML**
 - 🤝 I’m looking for help with Data Science & InfoSec
@@ -47,7 +50,7 @@
 
 ## Work Experience :woman_technologist:
 
-* Software Engineer at [Honeywell](https://aerospace.honeywell.com/)
+* Software Engineer at [Honeywell Aerospace](https://aerospace.honeywell.com/)
 * Campus Ambassador at [IIT BHU Technex'19](https://ca.technex.co.in/)
 
 
