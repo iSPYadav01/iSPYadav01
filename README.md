@@ -46,8 +46,8 @@
 
 ## Work Experience :woman_technologist:
 
-* Software Engineer at [PhonePe](https://www.phonepe.com/)
-* Former Software Engineer intern at [Red Hat](https://www.redhat.com/en)
+* Software Engineer at [Honeywell](https://aerospace.honeywell.com/)
+* Campus Ambassador for IIT BHU [Technex'19](https://ca.technex.co.in/)
 * Past Outreachy'20 intern with [OpenRefine](https://openrefine.org/)
 * Co-founder & Instructor at [Code for Cause](https://www.youtube.com/channel/codeforcause)
 * Ex-Teaching Assistant at [Coding Blocks](https://www.codingblocks.com)
