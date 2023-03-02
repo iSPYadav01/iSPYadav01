@@ -1,6 +1,8 @@
 ![MasterHead](https://connect-assets.prosple.com/cdn/ff/qfmywmPsyalNokaR8bDeiIt_-D89bEuUASiMJfffIAU/1586153400/public/2020-04/banner-honeywell-1786x642-2020.jpg)
+<!-- 
 <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h1 align="center">I'm S.Pratap Yadav <img src="https://media.giphy.com/media/zywDYrqp81hf0XdNFU/giphy.gif" width="25px"></h1>
+-->
 <h3 align="center">Software Engineer | Engineering Aerospace | Data Science & ML Enthusiast</h3>
 
 [![Twitter-Badge](https://img.shields.io/twitter/follow/iSPYadav01?style=social&link=https://www.twitter.com/iSPYadav01/)](https://www.twitter.com/iSPYadav01/)
