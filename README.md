@@ -28,7 +28,7 @@
 - 🌱 I’m also learning **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on **DS & ML**
 - 🤝 I’m looking for help with Data Science & InfoSec
--	Favorite books : [रश्मिरथी / रामधारी सिंह "दिनकर"](http://kavitakosh.org/kk/%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A5%80_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22)
+- 📚	 Favorite Books : [रश्मिरथी / रामधारी सिंह "दिनकर"](http://kavitakosh.org/kk/%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A5%80_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22)
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/iSPYadav01?tab=repositories)
 - 📫 Take a Look at Our One of the : [ML Project](https://vehiclepricepredictor01.herokuapp.com/)
 - 📝 I regularly write articles on : [Working on...](https://medium.com/)
