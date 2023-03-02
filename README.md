@@ -15,16 +15,16 @@
 [![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
 -->
 
-<img align="right" alt="Coding" width="300" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
+<img align="right" alt="Coding" width="350" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="iSPYadav01" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ispyadav01" alt="iSPYadav01" /></a> </p> 
 <p align="left"> <a href="https://twitter.com/iSPYadav01" target="blank"><img src="https://img.shields.io/twitter/follow/iSPYadav01?logo=twitter&style=for-the-badge" alt="iSPYadav01" /></a> </p>
 -->
-
+## About Me:
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I'm S.Pratap Yadav. 
 - 🔭 I’m currently working as **Software Engineer** @ **Honeywell Engineering Aerospace**
-- 🌱 I’m currently learning **Aerospace Engineering**
 - 🌱 I’m also learning **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on **DS & ML**
 - 🤝 I’m looking for help with Data Science & InfoSec
@@ -44,7 +44,13 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm living cartoon, I love making others smile :)
 
+## Work Experience :woman_technologist:
 
+* Software Engineer at [PhonePe](https://www.phonepe.com/)
+* Former Software Engineer intern at [Red Hat](https://www.redhat.com/en)
+* Past Outreachy'20 intern with [OpenRefine](https://openrefine.org/)
+* Co-founder & Instructor at [Code for Cause](https://www.youtube.com/channel/codeforcause)
+* Ex-Teaching Assistant at [Coding Blocks](https://www.codingblocks.com)
 
 
 ## Tools & Technologies :computer:
