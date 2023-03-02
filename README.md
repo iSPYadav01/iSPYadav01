@@ -2,13 +2,14 @@
 <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h1 align="center">I'm S.Pratap Yadav</h1>
 <h3 align="center">Software Engineer | Engineering Aerospace | Data Science & ML Enthusiast</h3>
-
+< align="center"
 [![Twitter-Badge](https://img.shields.io/twitter/follow/iSPYadav01?style=social&link=https://www.twitter.com/iSPYadav01/)](https://www.twitter.com/iSPYadav01/)
 [![GitHub Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/iSPYadav01/)](https://www.github.com/iSPYadav01/)
 [![Linkedin Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iSPYadav01/)](https://www.linkedin.com/in/iSPYadav01/)
 [![Gmail Badge](https://img.shields.io/badge/-help.enext@protonmail.com-c14438?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:help.enext@protonmail.com)](mailto:help.enext@protonmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-iSPYadav01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iSPYadav01/)](https://instagram.com/iSPYadav01)
 <img src="https://komarev.com/ghpvc/?username=iSPYadav01" alt="iSPYadav01"/>
+>
 
 <img align="right" alt="Coding" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="iSPYadav01" /> </p>
