@@ -10,8 +10,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-iSPYadav01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iSPYadav01/)](https://instagram.com/iSPYadav01)
 <img src="https://komarev.com/ghpvc/?username=iSPYadav01" alt="iSPYadav01"/>
 
-<img align="right" alt="Coding" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="iSPYadav01" /> </p>
+<!--
+[![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darecoder/)](https://instagram.com/darecoder)
+[![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
+-->
+
+<img align="right" alt="Coding" width="300" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
+
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ispyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="iSPYadav01" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ispyadav01" alt="iSPYadav01" /></a> </p> 
 <p align="left"> <a href="https://twitter.com/iSPYadav01" target="blank"><img src="https://img.shields.io/twitter/follow/iSPYadav01?logo=twitter&style=for-the-badge" alt="iSPYadav01" /></a> </p>
 -->
@@ -39,15 +46,6 @@
 
 
 
-[![Twitter-Badge](https://img.shields.io/twitter/follow/iSPYadav01?style=social&link=https://www.twitter.com/iSPYadav01/)](https://www.twitter.com/iSPYadav01/)
-[![Linkedin Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iSPYadav01/)](https://www.linkedin.com/in/iSPYadav01/)
-[![Gmail Badge](https://img.shields.io/badge/-help.enext@protonmail.com-c14438?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:help.enext@protonmail.com)](mailto:help.enext@protonmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/iSPYadav01/)](https://www.github.com/iSPYadav01/)
-<img src="https://komarev.com/ghpvc/?username=iSPYadav01" alt="iSPYadav01"/>
-<!--
-[![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darecoder/)](https://instagram.com/darecoder)
-[![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
--->
 
 ## Tools & Technologies :computer:
 
