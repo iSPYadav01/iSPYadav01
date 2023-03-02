@@ -32,7 +32,7 @@
 
 
 
-[![Twitter-Badge](https://img.shields.io/twitter/follow/darecoder?style=social&link=https://www.twitter.com/darecoder/)](https://www.twitter.com/darecoder/)
+[![Twitter-Badge](https://img.shields.io/twitter/follow/darecoder?style=social&link=https://www.twitter.com/iSPYadav01/)](https://www.twitter.com/iSPYadav01/)
 [![Linkedin Badge](https://img.shields.io/badge/-darecoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darecoder/)](https://www.linkedin.com/in/darecoder/)
 [![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darecoder/)](https://instagram.com/darecoder)
 [![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
