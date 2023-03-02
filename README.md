@@ -42,7 +42,7 @@
 - 📄 Best Resources to Learn Data Science : [Click Here](https://github.com/iSPYadav01/Resources-to-Learn-Data-Science)
 
 
-## Work Experience :man_technologist:
+## Work Experience: :man_technologist:
 * Software Engineer at [Honeywell Aerospace](https://aerospace.honeywell.com/)
 * Campus Ambassador at [IIT BHU Technex'19](https://ca.technex.co.in/)
 
