@@ -91,19 +91,23 @@
 <h3 align="left">Support:</h3> 
 <p><a href="https://www.buymeacoffee.com/ispyadav01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ispyadav01" /></a></p><br><br> 
 
+## My GitHub Streak ⚡
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ispyadav01&" alt="ispyadav01" /></p>
+
 ## My GitHub Stats ⚡
 ![Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSPYadav01&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
 ## Top Langauges 👩‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSPYadav01&hide=TeX&layout=compact)
  
- 
+<!--
 ### My GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ispyadav01&show_icons=true&locale=en&layout=compact" alt="ispyadav01" /></p>
 
 ### Top Langauges:
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ispyadav01&show_icons=true&locale=en" alt="ispyadav01" /></p>
+-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ispyadav01&" alt="ispyadav01" /></p>
+
 
   
