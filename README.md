@@ -47,9 +47,9 @@
 * Campus Ambassador at [IIT BHU Technex'19](https://ca.technex.co.in/)
 
 ## Languages: :computer:
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://www.python.org/"></code>
 
 ## Tools & Technologies:
 
