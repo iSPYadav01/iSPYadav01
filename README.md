@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer | Engineering Aerospace | Data Science & ML Enthusiast</h3>
 
 [![Twitter-Badge](https://img.shields.io/twitter/follow/iSPYadav01?style=social&link=https://www.twitter.com/iSPYadav01/)](https://www.twitter.com/iSPYadav01/)
-[![GitHub Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/iSPYadav01/)](https://www.github.com/iSPYadav01/)
+[![GitHub Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=GitHub&logoColor=black&link=https://www.github.com/iSPYadav01/)](https://www.github.com/iSPYadav01/)
 [![Linkedin Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iSPYadav01/)](https://www.linkedin.com/in/iSPYadav01/)
 [![Gmail Badge](https://img.shields.io/badge/-help.enext@protonmail.com-c14438?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:help.enext@protonmail.com)](mailto:help.enext@protonmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-iSPYadav01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iSPYadav01/)](https://instagram.com/iSPYadav01)
