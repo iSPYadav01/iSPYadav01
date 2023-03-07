@@ -1,6 +1,8 @@
 ![MasterHead](https://connect-assets.prosple.com/cdn/ff/qfmywmPsyalNokaR8bDeiIt_-D89bEuUASiMJfffIAU/1586153400/public/2020-04/banner-honeywell-1786x642-2020.jpg)
+<!-- 
 <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h1 align="center">I'm S.Pratap Yadav <img src="https://media.giphy.com/media/zywDYrqp81hf0XdNFU/giphy.gif" width="25px"></h1>
+-->
+<h2 align="center">S.Pratap Yadav <img src="https://media.giphy.com/media/zywDYrqp81hf0XdNFU/giphy.gif" width="25px"></h1>
 <h3 align="center">Software Engineer | Engineering Aerospace | Data Science & ML Enthusiast</h3>
 
 [![Twitter-Badge](https://img.shields.io/twitter/follow/iSPYadav01?style=social&link=https://www.twitter.com/iSPYadav01/)](https://www.twitter.com/iSPYadav01/)
@@ -25,18 +27,13 @@
 -->
 ## About Me:
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I'm S.Pratap Yadav. 
-- 💻 I’m currently working as Software Engineer @ [Honeywell](https://www.honeywell.com/in/en)
-<!--
-- 🔭 I've Worked as Software Engineer @ [Honeywell](https://www.honeywell.com/in/en)
--->
+- 💻 I’m currently working as Software Engineer @ [Honeywell](https://www.honeywell.com/in/en)<!-- - 🔭 I've Worked as Software Engineer @ [Honeywell](https://www.honeywell.com/in/en)-->
 - 🌱 I’m also learning Aerospace Engineering.
-- 👯 I’m looking to collaborate on  Data Science and Machine Learning.
-- 🤝 I’m looking for help with Data Science & Analytics
-- 📚	 Favorite Books : [Rashmirathi](http://kavitakosh.org/kk/%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A5%80_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22)
+- 👯 I’m looking to collaborate on  Data Science and Machine Learning.<!--  - 🤝 I’m looking for help with Data Science & Analytics-->
+- 📚 Favorite Books : [Rashmirathi](http://kavitakosh.org/kk/%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A5%80_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22)
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/iSPYadav01?tab=repositories)
-- 📫 Take a Look at Our One of the : [ML Project](https://vehiclepricepredictor01.herokuapp.com/)
-- 📝 I regularly write articles on : [Working on...](https://medium.com/)
-- 💬 Ask me about : Data Science & Analytics | Aerospace Engineering | Big Data | InfoSec  I'll try my best to help.
+- 📫 Take a Look at Our One of the : [ML Project](https://vehiclepricepredictor01.herokuapp.com/)<!-- - 📝 I regularly write articles on : [Working on...](https://medium.com/)-->
+- 💬 Ask me about : Data Science & Analytics | Aerospace Engineering | InfoSec  I'll try my best to help.
 - 📫 How to reach me: You can connect with me on LinkedIn,Twitter,Instagram,eMail
 - 😄 Pronouns: he/his)
 - ⚡ Fun fact: I'm living cartoon, I love making others smile :)
