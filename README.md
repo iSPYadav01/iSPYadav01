@@ -34,7 +34,7 @@
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/iSPYadav01?tab=repositories)
 - 👨‍💻 My New Web Page : [Data Dynasty Lab](https://ispyadav01.github.io/MyPageDDL/)
 - ⚡ My Recent Developed Tool: [ADA_Scraper_Tool](https://github.com/iSPYadav01/ADA_Scraper_Tool)
-- ⚡ Have a Glance: [Portfolio Page](https://ispyadav01.github.io/Portfolio/)
+- ⚡ Quick Glance: [Portfolio Page](https://ispyadav01.github.io/Portfolio/)
 - 📫 Take a Look at Our One of the : [ML Project](https://vehiclepricepredictor01.herokuapp.com/)<!-- - 📝 I regularly write articles on : [Working on...](https://medium.com/)-->
 - 💬 Ask me about : Data Science & Analytics | Aerospace Engineering | InfoSec  I'll try my best to help.
 - 📫 How to reach me: You can connect with me on LinkedIn,Twitter,Instagram,eMail
