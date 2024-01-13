@@ -9,7 +9,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=GitHub&logoColor=black&link=https://www.github.com/iSPYadav01/)](https://www.github.com/iSPYadav01/)
 [![Linkedin Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iSPYadav01/)](https://www.linkedin.com/in/iSPYadav01/)
 [![Gmail Badge](https://img.shields.io/badge/-help.enext@protonmail.com-c14438?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:help.enext@protonmail.com)](mailto:help.enext@protonmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-iSPYadav01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iSPYadav01/)](https://instagram.com/iSPYadav01)
+[![Instagram Badge](https://img.shields.io/badge/-iSPYadav01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://ispyadav01.github.io/Portfolio/)](https://ispyadav01.github.io/Portfolio/)
 [![Instagram Badge](https://img.shields.io/badge/-iSPYadav01-purple?style=flat-square&logo=youtube&logoColor=red&link=https://www.youtube.com/@iSPYadav01/)](https://www.youtube.com/@iSPYadav01)
 <img src="https://komarev.com/ghpvc/?username=iSPYadav01" alt="iSPYadav01"/>
 
@@ -34,6 +34,7 @@
 - 👨‍💻 All of my projects are available at : [GitHub](https://github.com/iSPYadav01?tab=repositories)
 - 👨‍💻 My New Web Page : [Data Dynasty Lab](https://ispyadav01.github.io/MyPageDDL/)
 - ⚡ My Recent Developed Tool: [ADA_Scraper_Tool](https://github.com/iSPYadav01/ADA_Scraper_Tool)
+- ⚡ Have a Glance: [Portfolio Page](https://ispyadav01.github.io/Portfolio/)
 - 📫 Take a Look at Our One of the : [ML Project](https://vehiclepricepredictor01.herokuapp.com/)<!-- - 📝 I regularly write articles on : [Working on...](https://medium.com/)-->
 - 💬 Ask me about : Data Science & Analytics | Aerospace Engineering | InfoSec  I'll try my best to help.
 - 📫 How to reach me: You can connect with me on LinkedIn,Twitter,Instagram,eMail
