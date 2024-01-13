@@ -9,7 +9,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=GitHub&logoColor=black&link=https://www.github.com/iSPYadav01/)](https://www.github.com/iSPYadav01/)
 [![Linkedin Badge](https://img.shields.io/badge/-iSPYadav01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iSPYadav01/)](https://www.linkedin.com/in/iSPYadav01/)
 [![Gmail Badge](https://img.shields.io/badge/-help.enext@protonmail.com-c14438?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:help.enext@protonmail.com)](mailto:help.enext@protonmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-iSPYadav01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://ispyadav01.github.io/Portfolio/)](https://ispyadav01.github.io/Portfolio/)
+[![Instagram Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=instagram&logoColor=white&link=https://ispyadav01.github.io/Portfolio/)](https://ispyadav01.github.io/Portfolio/)
 [![Instagram Badge](https://img.shields.io/badge/-iSPYadav01-purple?style=flat-square&logo=youtube&logoColor=red&link=https://www.youtube.com/@iSPYadav01/)](https://www.youtube.com/@iSPYadav01)
 <img src="https://komarev.com/ghpvc/?username=iSPYadav01" alt="iSPYadav01"/>
 
